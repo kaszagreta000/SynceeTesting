@@ -1,0 +1,17 @@
+.leftside-position {
+  position: absolute;
+  left: 10%;
+}
+
+.image-data {
+  position: relative;
+  left: 600px;
+}
+
+body {
+  background-image: url("syncee_frontend_test_wallpaper.png");
+  background-repeat: no-repeat;
+  background-size: 60%;
+  background-position: relative;
+  background-position-x: 125%;
+}
